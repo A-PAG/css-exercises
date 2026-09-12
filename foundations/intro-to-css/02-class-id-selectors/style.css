@@ -1,7 +1,7 @@
 /* Add CSS Styling */
 .odd{
     background-color: #e9a3a3;
-    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
 #blue{
@@ -9,12 +9,11 @@
     font-size: 36px;
 }
 
-.big{
+.big-text{
     font-size: 24px;
 }
 
 #green{
     background-color: #83dd83;
-    font-size: 24px;
     font-weight: bold;
 }
